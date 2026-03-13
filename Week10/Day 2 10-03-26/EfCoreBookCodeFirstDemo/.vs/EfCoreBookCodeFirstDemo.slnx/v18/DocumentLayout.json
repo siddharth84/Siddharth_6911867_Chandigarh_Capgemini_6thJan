@@ -1,0 +1,206 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dell\\source\\repos\\Week10\\Day 2 10-03-26\\EfCoreBookCodeFirstDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C642CAF7-0483-E2FE-84E2-84535AC84A33}|EfCoreBookCodeFirstDemo.csproj|c:\\users\\dell\\source\\repos\\week10\\day 2 10-03-26\\efcorebookcodefirstdemo\\views\\book\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C642CAF7-0483-E2FE-84E2-84535AC84A33}|EfCoreBookCodeFirstDemo.csproj|solutionrelative:views\\book\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C642CAF7-0483-E2FE-84E2-84535AC84A33}|EfCoreBookCodeFirstDemo.csproj|c:\\users\\dell\\source\\repos\\week10\\day 2 10-03-26\\efcorebookcodefirstdemo\\views\\book\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C642CAF7-0483-E2FE-84E2-84535AC84A33}|EfCoreBookCodeFirstDemo.csproj|solutionrelative:views\\book\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C642CAF7-0483-E2FE-84E2-84535AC84A33}|EfCoreBookCodeFirstDemo.csproj|c:\\users\\dell\\source\\repos\\week10\\day 2 10-03-26\\efcorebookcodefirstdemo\\views\\book\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C642CAF7-0483-E2FE-84E2-84535AC84A33}|EfCoreBookCodeFirstDemo.csproj|solutionrelative:views\\book\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C642CAF7-0483-E2FE-84E2-84535AC84A33}|EfCoreBookCodeFirstDemo.csproj|c:\\users\\dell\\source\\repos\\week10\\day 2 10-03-26\\efcorebookcodefirstdemo\\views\\book\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C642CAF7-0483-E2FE-84E2-84535AC84A33}|EfCoreBookCodeFirstDemo.csproj|solutionrelative:views\\book\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C642CAF7-0483-E2FE-84E2-84535AC84A33}|EfCoreBookCodeFirstDemo.csproj|c:\\users\\dell\\source\\repos\\week10\\day 2 10-03-26\\efcorebookcodefirstdemo\\models\\bookmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C642CAF7-0483-E2FE-84E2-84535AC84A33}|EfCoreBookCodeFirstDemo.csproj|solutionrelative:models\\bookmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C642CAF7-0483-E2FE-84E2-84535AC84A33}|EfCoreBookCodeFirstDemo.csproj|c:\\users\\dell\\source\\repos\\week10\\day 2 10-03-26\\efcorebookcodefirstdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C642CAF7-0483-E2FE-84E2-84535AC84A33}|EfCoreBookCodeFirstDemo.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C642CAF7-0483-E2FE-84E2-84535AC84A33}|EfCoreBookCodeFirstDemo.csproj|c:\\users\\dell\\source\\repos\\week10\\day 2 10-03-26\\efcorebookcodefirstdemo\\controllers\\bookcontroller1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C642CAF7-0483-E2FE-84E2-84535AC84A33}|EfCoreBookCodeFirstDemo.csproj|solutionrelative:controllers\\bookcontroller1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C642CAF7-0483-E2FE-84E2-84535AC84A33}|EfCoreBookCodeFirstDemo.csproj|c:\\users\\dell\\source\\repos\\week10\\day 2 10-03-26\\efcorebookcodefirstdemo\\models\\bookdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C642CAF7-0483-E2FE-84E2-84535AC84A33}|EfCoreBookCodeFirstDemo.csproj|solutionrelative:models\\bookdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C642CAF7-0483-E2FE-84E2-84535AC84A33}|EfCoreBookCodeFirstDemo.csproj|c:\\users\\dell\\source\\repos\\week10\\day 2 10-03-26\\efcorebookcodefirstdemo\\views\\book\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C642CAF7-0483-E2FE-84E2-84535AC84A33}|EfCoreBookCodeFirstDemo.csproj|solutionrelative:views\\book\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C642CAF7-0483-E2FE-84E2-84535AC84A33}|EfCoreBookCodeFirstDemo.csproj|c:\\users\\dell\\source\\repos\\week10\\day 2 10-03-26\\efcorebookcodefirstdemo\\migrations\\20260310085627_createbooktable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C642CAF7-0483-E2FE-84E2-84535AC84A33}|EfCoreBookCodeFirstDemo.csproj|solutionrelative:migrations\\20260310085627_createbooktable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C642CAF7-0483-E2FE-84E2-84535AC84A33}|EfCoreBookCodeFirstDemo.csproj|c:\\users\\dell\\source\\repos\\week10\\day 2 10-03-26\\efcorebookcodefirstdemo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C642CAF7-0483-E2FE-84E2-84535AC84A33}|EfCoreBookCodeFirstDemo.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\Week10\\Day 2 10-03-26\\EfCoreBookCodeFirstDemo\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\Week10\\Day 2 10-03-26\\EfCoreBookCodeFirstDemo\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T08:55:25.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\Week10\\Day 2 10-03-26\\EfCoreBookCodeFirstDemo\\Views\\Book\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Book\\Create.cshtml",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\Week10\\Day 2 10-03-26\\EfCoreBookCodeFirstDemo\\Views\\Book\\Create.cshtml",
+              "RelativeToolTip": "Views\\Book\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-10T09:00:05.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BookModel.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\Week10\\Day 2 10-03-26\\EfCoreBookCodeFirstDemo\\Models\\BookModel.cs",
+              "RelativeDocumentMoniker": "Models\\BookModel.cs",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\Week10\\Day 2 10-03-26\\EfCoreBookCodeFirstDemo\\Models\\BookModel.cs",
+              "RelativeToolTip": "Models\\BookModel.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAYwBEAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T08:53:14.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\Week10\\Day 2 10-03-26\\EfCoreBookCodeFirstDemo\\Views\\Book\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Book\\Details.cshtml",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\Week10\\Day 2 10-03-26\\EfCoreBookCodeFirstDemo\\Views\\Book\\Details.cshtml",
+              "RelativeToolTip": "Views\\Book\\Details.cshtml",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAwCoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-10T09:01:18.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\Week10\\Day 2 10-03-26\\EfCoreBookCodeFirstDemo\\Views\\Book\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Book\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\Week10\\Day 2 10-03-26\\EfCoreBookCodeFirstDemo\\Views\\Book\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Book\\Edit.cshtml",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAwCYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-10T09:01:50.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\Week10\\Day 2 10-03-26\\EfCoreBookCodeFirstDemo\\Views\\Book\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Book\\Index.cshtml",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\Week10\\Day 2 10-03-26\\EfCoreBookCodeFirstDemo\\Views\\Book\\Index.cshtml",
+              "RelativeToolTip": "Views\\Book\\Index.cshtml",
+              "ViewState": "AgIAACkAAAAAAAAAAAAAwDIAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-10T09:02:51.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BookController1.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\Week10\\Day 2 10-03-26\\EfCoreBookCodeFirstDemo\\Controllers\\BookController1.cs",
+              "RelativeDocumentMoniker": "Controllers\\BookController1.cs",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\Week10\\Day 2 10-03-26\\EfCoreBookCodeFirstDemo\\Controllers\\BookController1.cs",
+              "RelativeToolTip": "Controllers\\BookController1.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAuwEsAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T08:57:43.502Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BookDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\Week10\\Day 2 10-03-26\\EfCoreBookCodeFirstDemo\\Models\\BookDBContext.cs",
+              "RelativeDocumentMoniker": "Models\\BookDBContext.cs",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\Week10\\Day 2 10-03-26\\EfCoreBookCodeFirstDemo\\Models\\BookDBContext.cs",
+              "RelativeToolTip": "Models\\BookDBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T08:54:12.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\Week10\\Day 2 10-03-26\\EfCoreBookCodeFirstDemo\\Views\\Book\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Book\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\Week10\\Day 2 10-03-26\\EfCoreBookCodeFirstDemo\\Views\\Book\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Book\\Delete.cshtml",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAwCYAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-10T09:00:45.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20260310085627_CreateBookTable.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\Week10\\Day 2 10-03-26\\EfCoreBookCodeFirstDemo\\Migrations\\20260310085627_CreateBookTable.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260310085627_CreateBookTable.cs",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\Week10\\Day 2 10-03-26\\EfCoreBookCodeFirstDemo\\Migrations\\20260310085627_CreateBookTable.cs",
+              "RelativeToolTip": "Migrations\\20260310085627_CreateBookTable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T08:56:27.493Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\Week10\\Day 2 10-03-26\\EfCoreBookCodeFirstDemo\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\Week10\\Day 2 10-03-26\\EfCoreBookCodeFirstDemo\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-10T08:54:37.857Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

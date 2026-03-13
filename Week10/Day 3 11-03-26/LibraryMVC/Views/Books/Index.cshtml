@@ -1,0 +1,35 @@
+﻿@model IEnumerable<LibraryMVC.Models.Book>
+
+<h2>Books</h2>
+
+<p>
+    <a asp-action="Create" class="btn btn-primary">Add New Book</a>
+</p>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Title</th>
+            <th>ISBN</th>
+            <th>Author</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+
+    <tbody>
+        @foreach (var book in Model)
+        {
+            <tr>
+                <td>@book.Title</td>
+                <td>@book.Isbn</td>
+                <td>@book.Author?.Name</td>
+
+                <td>
+                    <a asp-action="Edit" asp-route-id="@book.BookId">Edit</a> |
+                    <a asp-action="Details" asp-route-id="@book.BookId">Details</a> |
+                    <a asp-action="Delete" asp-route-id="@book.BookId">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

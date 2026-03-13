@@ -1,0 +1,297 @@
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\12_Mar_26\RoutingAuthentication\bin\Debug\net10.0\appsettings.Development.json
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\12_Mar_26\RoutingAuthentication\bin\Debug\net10.0\appsettings.json
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\12_Mar_26\RoutingAuthentication\bin\Debug\net10.0\RoutingAuthentication.staticwebassets.runtime.json
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\12_Mar_26\RoutingAuthentication\bin\Debug\net10.0\RoutingAuthentication.staticwebassets.endpoints.json
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\12_Mar_26\RoutingAuthentication\bin\Debug\net10.0\RoutingAuthentication.exe
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\12_Mar_26\RoutingAuthentication\bin\Debug\net10.0\RoutingAuthentication.deps.json
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\12_Mar_26\RoutingAuthentication\bin\Debug\net10.0\RoutingAuthentication.runtimeconfig.json
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\12_Mar_26\RoutingAuthentication\bin\Debug\net10.0\RoutingAuthentication.dll
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\12_Mar_26\RoutingAuthentication\bin\Debug\net10.0\RoutingAuthentication.pdb
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\12_Mar_26\RoutingAuthentication\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\12_Mar_26\RoutingAuthentication\obj\Debug\net10.0\RoutingAuthentication.GeneratedMSBuildEditorConfig.editorconfig
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\12_Mar_26\RoutingAuthentication\obj\Debug\net10.0\RoutingAuthentication.AssemblyInfoInputs.cache
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\12_Mar_26\RoutingAuthentication\obj\Debug\net10.0\RoutingAuthentication.AssemblyInfo.cs
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\12_Mar_26\RoutingAuthentication\obj\Debug\net10.0\RoutingAuthentication.csproj.CoreCompileInputs.cache
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\12_Mar_26\RoutingAuthentication\obj\Debug\net10.0\RoutingAuthentication.MvcApplicationPartsAssemblyInfo.cache
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\12_Mar_26\RoutingAuthentication\obj\Debug\net10.0\RoutingAuthentication.RazorAssemblyInfo.cache
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\12_Mar_26\RoutingAuthentication\obj\Debug\net10.0\RoutingAuthentication.RazorAssemblyInfo.cs
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\12_Mar_26\RoutingAuthentication\obj\Debug\net10.0\RoutingAuthentication.sourcelink.json
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\12_Mar_26\RoutingAuthentication\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\12_Mar_26\RoutingAuthentication\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\12_Mar_26\RoutingAuthentication\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\12_Mar_26\RoutingAuthentication\obj\Debug\net10.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\12_Mar_26\RoutingAuthentication\obj\Debug\net10.0\scopedcss\bundle\RoutingAuthentication.styles.css
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\12_Mar_26\RoutingAuthentication\obj\Debug\net10.0\scopedcss\projectbundle\RoutingAuthentication.bundle.scp.css
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\12_Mar_26\RoutingAuthentication\obj\Debug\net10.0\compressed\m6e5b8osbd-{0}-b9sayid5wm-b9sayid5wm.gz
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\12_Mar_26\RoutingAuthentication\obj\Debug\net10.0\compressed\ggzi2z76e7-{0}-61n19gt1b8-61n19gt1b8.gz
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\12_Mar_26\RoutingAuthentication\obj\Debug\net10.0\compressed\8gnab8rpwn-{0}-xtxxf3hu2r-xtxxf3hu2r.gz
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\12_Mar_26\RoutingAuthentication\obj\Debug\net10.0\compressed\8b1qqrdhss-{0}-bqjiyaj88i-bqjiyaj88i.gz
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\12_Mar_26\RoutingAuthentication\obj\Debug\net10.0\compressed\ybbzq34s0k-{0}-c2jlpeoesf-c2jlpeoesf.gz
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\12_Mar_26\RoutingAuthentication\obj\Debug\net10.0\compressed\ibxb2xrg8w-{0}-erw9l3u2r3-erw9l3u2r3.gz
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\12_Mar_26\RoutingAuthentication\obj\Debug\net10.0\compressed\3amldjeugt-{0}-aexeepp0ev-aexeepp0ev.gz
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\12_Mar_26\RoutingAuthentication\obj\Debug\net10.0\compressed\54avnivru5-{0}-d7shbmvgxk-d7shbmvgxk.gz
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\12_Mar_26\RoutingAuthentication\obj\Debug\net10.0\compressed\jpvkmlkic7-{0}-ausgxo2sd3-ausgxo2sd3.gz
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\12_Mar_26\RoutingAuthentication\obj\Debug\net10.0\compressed\5kqlrdffq9-{0}-k8d9w2qqmf-k8d9w2qqmf.gz
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\12_Mar_26\RoutingAuthentication\obj\Debug\net10.0\compressed\asao92a2wc-{0}-cosvhxvwiu-cosvhxvwiu.gz
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\12_Mar_26\RoutingAuthentication\obj\Debug\net10.0\compressed\nsqfmn2d5w-{0}-ub07r2b239-ub07r2b239.gz
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\12_Mar_26\RoutingAuthentication\obj\Debug\net10.0\compressed\of3x8m5t77-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\12_Mar_26\RoutingAuthentication\obj\Debug\net10.0\compressed\ky4gzmh9fc-{0}-b7pk76d08c-b7pk76d08c.gz
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\12_Mar_26\RoutingAuthentication\obj\Debug\net10.0\compressed\6dybl9v3qz-{0}-fsbi9cje9m-fsbi9cje9m.gz
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\12_Mar_26\RoutingAuthentication\obj\Debug\net10.0\compressed\cw0v7o8iwr-{0}-rzd6atqjts-rzd6atqjts.gz
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\12_Mar_26\RoutingAuthentication\obj\Debug\net10.0\compressed\fvjnfplakq-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\12_Mar_26\RoutingAuthentication\obj\Debug\net10.0\compressed\f61z0517bv-{0}-dxx9fxp4il-dxx9fxp4il.gz
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\12_Mar_26\RoutingAuthentication\obj\Debug\net10.0\compressed\wcwj7m3zhd-{0}-jd9uben2k1-jd9uben2k1.gz
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\12_Mar_26\RoutingAuthentication\obj\Debug\net10.0\compressed\yzjhfaaipk-{0}-khv3u5hwcm-khv3u5hwcm.gz
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\12_Mar_26\RoutingAuthentication\obj\Debug\net10.0\compressed\l4at79s027-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\12_Mar_26\RoutingAuthentication\obj\Debug\net10.0\compressed\xy43iw1vtu-{0}-lcd1t2u6c8-lcd1t2u6c8.gz
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\12_Mar_26\RoutingAuthentication\obj\Debug\net10.0\compressed\00o3iw74gq-{0}-c2oey78nd0-c2oey78nd0.gz
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\12_Mar_26\RoutingAuthentication\obj\Debug\net10.0\compressed\umsskhyqad-{0}-tdbxkamptv-tdbxkamptv.gz
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\12_Mar_26\RoutingAuthentication\obj\Debug\net10.0\compressed\tri91w87uy-{0}-j5mq2jizvt-j5mq2jizvt.gz
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\12_Mar_26\RoutingAuthentication\obj\Debug\net10.0\compressed\l8gjio7nc2-{0}-06098lyss8-06098lyss8.gz
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\12_Mar_26\RoutingAuthentication\obj\Debug\net10.0\compressed\uj8400su1k-{0}-nvvlpmu67g-nvvlpmu67g.gz
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\12_Mar_26\RoutingAuthentication\obj\Debug\net10.0\compressed\uapfsb9khj-{0}-s35ty4nyc5-s35ty4nyc5.gz
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\12_Mar_26\RoutingAuthentication\obj\Debug\net10.0\compressed\1t83151jdl-{0}-pj5nd1wqec-pj5nd1wqec.gz
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\12_Mar_26\RoutingAuthentication\obj\Debug\net10.0\compressed\0bhk9avx6a-{0}-46ein0sx1k-46ein0sx1k.gz
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\12_Mar_26\RoutingAuthentication\obj\Debug\net10.0\compressed\jer0pfx1x1-{0}-v0zj4ognzu-v0zj4ognzu.gz
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\12_Mar_26\RoutingAuthentication\obj\Debug\net10.0\compressed\ifbaprryoy-{0}-37tfw0ft22-37tfw0ft22.gz
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\12_Mar_26\RoutingAuthentication\obj\Debug\net10.0\compressed\1177o3pdns-{0}-hrwsygsryq-hrwsygsryq.gz
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\12_Mar_26\RoutingAuthentication\obj\Debug\net10.0\compressed\h7qica182i-{0}-pk9g2wxc8p-pk9g2wxc8p.gz
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\12_Mar_26\RoutingAuthentication\obj\Debug\net10.0\compressed\u1pz5qa1rg-{0}-ft3s53vfgj-ft3s53vfgj.gz
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\12_Mar_26\RoutingAuthentication\obj\Debug\net10.0\compressed\0eaoucitcm-{0}-6cfz1n2cew-6cfz1n2cew.gz
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\12_Mar_26\RoutingAuthentication\obj\Debug\net10.0\compressed\jz09aqbu1n-{0}-6pdc2jztkx-6pdc2jztkx.gz
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\12_Mar_26\RoutingAuthentication\obj\Debug\net10.0\compressed\qav64sjqdn-{0}-493y06b0oq-493y06b0oq.gz
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\12_Mar_26\RoutingAuthentication\obj\Debug\net10.0\compressed\os6upayitu-{0}-iovd86k7lj-iovd86k7lj.gz
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\12_Mar_26\RoutingAuthentication\obj\Debug\net10.0\compressed\gm8i820z9d-{0}-vr1egmr9el-vr1egmr9el.gz
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\12_Mar_26\RoutingAuthentication\obj\Debug\net10.0\compressed\yhw04svp0q-{0}-kbrnm935zg-kbrnm935zg.gz
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\12_Mar_26\RoutingAuthentication\obj\Debug\net10.0\compressed\4w96lcv5fo-{0}-jj8uyg4cgr-jj8uyg4cgr.gz
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\12_Mar_26\RoutingAuthentication\obj\Debug\net10.0\compressed\5wusrg4o02-{0}-y7v9cxd14o-y7v9cxd14o.gz
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\12_Mar_26\RoutingAuthentication\obj\Debug\net10.0\compressed\66128iumwb-{0}-notf2xhcfb-notf2xhcfb.gz
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\12_Mar_26\RoutingAuthentication\obj\Debug\net10.0\compressed\a59ic8yeeb-{0}-h1s4sie4z3-h1s4sie4z3.gz
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\12_Mar_26\RoutingAuthentication\obj\Debug\net10.0\compressed\2y1fshqp1m-{0}-63fj8s7r0e-63fj8s7r0e.gz
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\12_Mar_26\RoutingAuthentication\obj\Debug\net10.0\compressed\hkbharylt7-{0}-0j3bgjxly4-0j3bgjxly4.gz
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\12_Mar_26\RoutingAuthentication\obj\Debug\net10.0\compressed\mb2j4vgmue-{0}-47otxtyo56-47otxtyo56.gz
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\12_Mar_26\RoutingAuthentication\obj\Debug\net10.0\compressed\rxcrg2a6nl-{0}-4v8eqarkd7-4v8eqarkd7.gz
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\12_Mar_26\RoutingAuthentication\obj\Debug\net10.0\compressed\mj641pf6i3-{0}-356vix0kms-356vix0kms.gz
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\12_Mar_26\RoutingAuthentication\obj\Debug\net10.0\compressed\afy5vl3heu-{0}-83jwlth58m-83jwlth58m.gz
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\12_Mar_26\RoutingAuthentication\obj\Debug\net10.0\compressed\1uubsfwkw8-{0}-mrlpezrjn3-mrlpezrjn3.gz
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\12_Mar_26\RoutingAuthentication\obj\Debug\net10.0\compressed\uxoy60jt24-{0}-lzl9nlhx6b-lzl9nlhx6b.gz
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\12_Mar_26\RoutingAuthentication\obj\Debug\net10.0\compressed\bsjr9out08-{0}-ag7o75518u-ag7o75518u.gz
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\12_Mar_26\RoutingAuthentication\obj\Debug\net10.0\compressed\dxy87m3qvi-{0}-x0q3zqp4vz-x0q3zqp4vz.gz
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\12_Mar_26\RoutingAuthentication\obj\Debug\net10.0\compressed\omjpwe3xt9-{0}-0i3buxo5is-0i3buxo5is.gz
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\12_Mar_26\RoutingAuthentication\obj\Debug\net10.0\compressed\brg9t0hky4-{0}-o1o13a6vjx-o1o13a6vjx.gz
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\12_Mar_26\RoutingAuthentication\obj\Debug\net10.0\compressed\t4qntl0a7d-{0}-ttgo8qnofa-ttgo8qnofa.gz
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\12_Mar_26\RoutingAuthentication\obj\Debug\net10.0\compressed\t13kzg668p-{0}-2z0ns9nrw6-2z0ns9nrw6.gz
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\12_Mar_26\RoutingAuthentication\obj\Debug\net10.0\compressed\dj38pcpfls-{0}-muycvpuwrr-muycvpuwrr.gz
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\12_Mar_26\RoutingAuthentication\obj\Debug\net10.0\compressed\6lasesg3yp-{0}-87fc7y1x7t-87fc7y1x7t.gz
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\12_Mar_26\RoutingAuthentication\obj\Debug\net10.0\compressed\7kdbco9fcd-{0}-mlv21k5csn-mlv21k5csn.gz
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\12_Mar_26\RoutingAuthentication\obj\Debug\net10.0\compressed\q8ca2nddpx-{0}-0xpd5dd1vb-0xpd5dd1vb.gz
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\12_Mar_26\RoutingAuthentication\obj\Debug\net10.0\compressed\foxdatg5vm-{0}-0xpd5dd1vb-0xpd5dd1vb.gz
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\12_Mar_26\RoutingAuthentication\obj\Debug\net10.0\staticwebassets.build.json
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\12_Mar_26\RoutingAuthentication\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\12_Mar_26\RoutingAuthentication\obj\Debug\net10.0\staticwebassets.development.json
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\12_Mar_26\RoutingAuthentication\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\12_Mar_26\RoutingAuthentication\obj\Debug\net10.0\swae.build.ex.cache
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\12_Mar_26\RoutingAuthentication\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\12_Mar_26\RoutingAuthentication\obj\Debug\net10.0\RoutingAuthentication.dll
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\12_Mar_26\RoutingAuthentication\obj\Debug\net10.0\refint\RoutingAuthentication.dll
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\12_Mar_26\RoutingAuthentication\obj\Debug\net10.0\RoutingAuthentication.pdb
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\12_Mar_26\RoutingAuthentication\obj\Debug\net10.0\RoutingAuthentication.genruntimeconfig.cache
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\12_Mar_26\RoutingAuthentication\obj\Debug\net10.0\ref\RoutingAuthentication.dll
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\Week10_9-15thMar_2026\Day 55_12th-Mar_2026\RoutingAuthentication\bin\Debug\net10.0\appsettings.Development.json
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\Week10_9-15thMar_2026\Day 55_12th-Mar_2026\RoutingAuthentication\bin\Debug\net10.0\appsettings.json
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\Week10_9-15thMar_2026\Day 55_12th-Mar_2026\RoutingAuthentication\bin\Debug\net10.0\RoutingAuthentication.staticwebassets.endpoints.json
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\Week10_9-15thMar_2026\Day 55_12th-Mar_2026\RoutingAuthentication\bin\Debug\net10.0\RoutingAuthentication.staticwebassets.runtime.json
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\Week10_9-15thMar_2026\Day 55_12th-Mar_2026\RoutingAuthentication\bin\Debug\net10.0\RoutingAuthentication.exe
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\Week10_9-15thMar_2026\Day 55_12th-Mar_2026\RoutingAuthentication\bin\Debug\net10.0\RoutingAuthentication.deps.json
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\Week10_9-15thMar_2026\Day 55_12th-Mar_2026\RoutingAuthentication\bin\Debug\net10.0\RoutingAuthentication.runtimeconfig.json
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\Week10_9-15thMar_2026\Day 55_12th-Mar_2026\RoutingAuthentication\bin\Debug\net10.0\RoutingAuthentication.dll
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\Week10_9-15thMar_2026\Day 55_12th-Mar_2026\RoutingAuthentication\bin\Debug\net10.0\RoutingAuthentication.pdb
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\Week10_9-15thMar_2026\Day 55_12th-Mar_2026\RoutingAuthentication\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\Week10_9-15thMar_2026\Day 55_12th-Mar_2026\RoutingAuthentication\obj\Debug\net10.0\RoutingAuthentication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\Week10_9-15thMar_2026\Day 55_12th-Mar_2026\RoutingAuthentication\obj\Debug\net10.0\RoutingAuthentication.AssemblyInfoInputs.cache
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\Week10_9-15thMar_2026\Day 55_12th-Mar_2026\RoutingAuthentication\obj\Debug\net10.0\RoutingAuthentication.AssemblyInfo.cs
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\Week10_9-15thMar_2026\Day 55_12th-Mar_2026\RoutingAuthentication\obj\Debug\net10.0\RoutingAuthentication.csproj.CoreCompileInputs.cache
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\Week10_9-15thMar_2026\Day 55_12th-Mar_2026\RoutingAuthentication\obj\Debug\net10.0\RoutingAuthentication.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\Week10_9-15thMar_2026\Day 55_12th-Mar_2026\RoutingAuthentication\obj\Debug\net10.0\RoutingAuthentication.RazorAssemblyInfo.cache
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\Week10_9-15thMar_2026\Day 55_12th-Mar_2026\RoutingAuthentication\obj\Debug\net10.0\RoutingAuthentication.RazorAssemblyInfo.cs
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\Week10_9-15thMar_2026\Day 55_12th-Mar_2026\RoutingAuthentication\obj\Debug\net10.0\RoutingAuthentication.sourcelink.json
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\Week10_9-15thMar_2026\Day 55_12th-Mar_2026\RoutingAuthentication\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\Week10_9-15thMar_2026\Day 55_12th-Mar_2026\RoutingAuthentication\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\Week10_9-15thMar_2026\Day 55_12th-Mar_2026\RoutingAuthentication\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\Week10_9-15thMar_2026\Day 55_12th-Mar_2026\RoutingAuthentication\obj\Debug\net10.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\Week10_9-15thMar_2026\Day 55_12th-Mar_2026\RoutingAuthentication\obj\Debug\net10.0\scopedcss\bundle\RoutingAuthentication.styles.css
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\Week10_9-15thMar_2026\Day 55_12th-Mar_2026\RoutingAuthentication\obj\Debug\net10.0\scopedcss\projectbundle\RoutingAuthentication.bundle.scp.css
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\Week10_9-15thMar_2026\Day 55_12th-Mar_2026\RoutingAuthentication\obj\Debug\net10.0\compressed\m6e5b8osbd-{0}-b9sayid5wm-b9sayid5wm.gz
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\Week10_9-15thMar_2026\Day 55_12th-Mar_2026\RoutingAuthentication\obj\Debug\net10.0\compressed\ggzi2z76e7-{0}-61n19gt1b8-61n19gt1b8.gz
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\Week10_9-15thMar_2026\Day 55_12th-Mar_2026\RoutingAuthentication\obj\Debug\net10.0\compressed\8gnab8rpwn-{0}-xtxxf3hu2r-xtxxf3hu2r.gz
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\Week10_9-15thMar_2026\Day 55_12th-Mar_2026\RoutingAuthentication\obj\Debug\net10.0\compressed\8b1qqrdhss-{0}-bqjiyaj88i-bqjiyaj88i.gz
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\Week10_9-15thMar_2026\Day 55_12th-Mar_2026\RoutingAuthentication\obj\Debug\net10.0\compressed\ybbzq34s0k-{0}-c2jlpeoesf-c2jlpeoesf.gz
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\Week10_9-15thMar_2026\Day 55_12th-Mar_2026\RoutingAuthentication\obj\Debug\net10.0\compressed\ibxb2xrg8w-{0}-erw9l3u2r3-erw9l3u2r3.gz
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\Week10_9-15thMar_2026\Day 55_12th-Mar_2026\RoutingAuthentication\obj\Debug\net10.0\compressed\3amldjeugt-{0}-aexeepp0ev-aexeepp0ev.gz
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\Week10_9-15thMar_2026\Day 55_12th-Mar_2026\RoutingAuthentication\obj\Debug\net10.0\compressed\54avnivru5-{0}-d7shbmvgxk-d7shbmvgxk.gz
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\Week10_9-15thMar_2026\Day 55_12th-Mar_2026\RoutingAuthentication\obj\Debug\net10.0\compressed\jpvkmlkic7-{0}-ausgxo2sd3-ausgxo2sd3.gz
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\Week10_9-15thMar_2026\Day 55_12th-Mar_2026\RoutingAuthentication\obj\Debug\net10.0\compressed\5kqlrdffq9-{0}-k8d9w2qqmf-k8d9w2qqmf.gz
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\Week10_9-15thMar_2026\Day 55_12th-Mar_2026\RoutingAuthentication\obj\Debug\net10.0\compressed\asao92a2wc-{0}-cosvhxvwiu-cosvhxvwiu.gz
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\Week10_9-15thMar_2026\Day 55_12th-Mar_2026\RoutingAuthentication\obj\Debug\net10.0\compressed\nsqfmn2d5w-{0}-ub07r2b239-ub07r2b239.gz
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\Week10_9-15thMar_2026\Day 55_12th-Mar_2026\RoutingAuthentication\obj\Debug\net10.0\compressed\of3x8m5t77-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\Week10_9-15thMar_2026\Day 55_12th-Mar_2026\RoutingAuthentication\obj\Debug\net10.0\compressed\ky4gzmh9fc-{0}-b7pk76d08c-b7pk76d08c.gz
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\Week10_9-15thMar_2026\Day 55_12th-Mar_2026\RoutingAuthentication\obj\Debug\net10.0\compressed\6dybl9v3qz-{0}-fsbi9cje9m-fsbi9cje9m.gz
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\Week10_9-15thMar_2026\Day 55_12th-Mar_2026\RoutingAuthentication\obj\Debug\net10.0\compressed\cw0v7o8iwr-{0}-rzd6atqjts-rzd6atqjts.gz
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\Week10_9-15thMar_2026\Day 55_12th-Mar_2026\RoutingAuthentication\obj\Debug\net10.0\compressed\fvjnfplakq-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\Week10_9-15thMar_2026\Day 55_12th-Mar_2026\RoutingAuthentication\obj\Debug\net10.0\compressed\f61z0517bv-{0}-dxx9fxp4il-dxx9fxp4il.gz
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\Week10_9-15thMar_2026\Day 55_12th-Mar_2026\RoutingAuthentication\obj\Debug\net10.0\compressed\wcwj7m3zhd-{0}-jd9uben2k1-jd9uben2k1.gz
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\Week10_9-15thMar_2026\Day 55_12th-Mar_2026\RoutingAuthentication\obj\Debug\net10.0\compressed\yzjhfaaipk-{0}-khv3u5hwcm-khv3u5hwcm.gz
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\Week10_9-15thMar_2026\Day 55_12th-Mar_2026\RoutingAuthentication\obj\Debug\net10.0\compressed\l4at79s027-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\Week10_9-15thMar_2026\Day 55_12th-Mar_2026\RoutingAuthentication\obj\Debug\net10.0\compressed\xy43iw1vtu-{0}-lcd1t2u6c8-lcd1t2u6c8.gz
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\Week10_9-15thMar_2026\Day 55_12th-Mar_2026\RoutingAuthentication\obj\Debug\net10.0\compressed\00o3iw74gq-{0}-c2oey78nd0-c2oey78nd0.gz
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\Week10_9-15thMar_2026\Day 55_12th-Mar_2026\RoutingAuthentication\obj\Debug\net10.0\compressed\umsskhyqad-{0}-tdbxkamptv-tdbxkamptv.gz
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\Week10_9-15thMar_2026\Day 55_12th-Mar_2026\RoutingAuthentication\obj\Debug\net10.0\compressed\tri91w87uy-{0}-j5mq2jizvt-j5mq2jizvt.gz
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\Week10_9-15thMar_2026\Day 55_12th-Mar_2026\RoutingAuthentication\obj\Debug\net10.0\compressed\l8gjio7nc2-{0}-06098lyss8-06098lyss8.gz
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\Week10_9-15thMar_2026\Day 55_12th-Mar_2026\RoutingAuthentication\obj\Debug\net10.0\compressed\uj8400su1k-{0}-nvvlpmu67g-nvvlpmu67g.gz
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\Week10_9-15thMar_2026\Day 55_12th-Mar_2026\RoutingAuthentication\obj\Debug\net10.0\compressed\uapfsb9khj-{0}-s35ty4nyc5-s35ty4nyc5.gz
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\Week10_9-15thMar_2026\Day 55_12th-Mar_2026\RoutingAuthentication\obj\Debug\net10.0\compressed\1t83151jdl-{0}-pj5nd1wqec-pj5nd1wqec.gz
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\Week10_9-15thMar_2026\Day 55_12th-Mar_2026\RoutingAuthentication\obj\Debug\net10.0\compressed\0bhk9avx6a-{0}-46ein0sx1k-46ein0sx1k.gz
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\Week10_9-15thMar_2026\Day 55_12th-Mar_2026\RoutingAuthentication\obj\Debug\net10.0\compressed\jer0pfx1x1-{0}-v0zj4ognzu-v0zj4ognzu.gz
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\Week10_9-15thMar_2026\Day 55_12th-Mar_2026\RoutingAuthentication\obj\Debug\net10.0\compressed\ifbaprryoy-{0}-37tfw0ft22-37tfw0ft22.gz
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\Week10_9-15thMar_2026\Day 55_12th-Mar_2026\RoutingAuthentication\obj\Debug\net10.0\compressed\1177o3pdns-{0}-hrwsygsryq-hrwsygsryq.gz
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\Week10_9-15thMar_2026\Day 55_12th-Mar_2026\RoutingAuthentication\obj\Debug\net10.0\compressed\h7qica182i-{0}-pk9g2wxc8p-pk9g2wxc8p.gz
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\Week10_9-15thMar_2026\Day 55_12th-Mar_2026\RoutingAuthentication\obj\Debug\net10.0\compressed\u1pz5qa1rg-{0}-ft3s53vfgj-ft3s53vfgj.gz
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\Week10_9-15thMar_2026\Day 55_12th-Mar_2026\RoutingAuthentication\obj\Debug\net10.0\compressed\0eaoucitcm-{0}-6cfz1n2cew-6cfz1n2cew.gz
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\Week10_9-15thMar_2026\Day 55_12th-Mar_2026\RoutingAuthentication\obj\Debug\net10.0\compressed\jz09aqbu1n-{0}-6pdc2jztkx-6pdc2jztkx.gz
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\Week10_9-15thMar_2026\Day 55_12th-Mar_2026\RoutingAuthentication\obj\Debug\net10.0\compressed\qav64sjqdn-{0}-493y06b0oq-493y06b0oq.gz
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\Week10_9-15thMar_2026\Day 55_12th-Mar_2026\RoutingAuthentication\obj\Debug\net10.0\compressed\os6upayitu-{0}-iovd86k7lj-iovd86k7lj.gz
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\Week10_9-15thMar_2026\Day 55_12th-Mar_2026\RoutingAuthentication\obj\Debug\net10.0\compressed\gm8i820z9d-{0}-vr1egmr9el-vr1egmr9el.gz
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\Week10_9-15thMar_2026\Day 55_12th-Mar_2026\RoutingAuthentication\obj\Debug\net10.0\compressed\yhw04svp0q-{0}-kbrnm935zg-kbrnm935zg.gz
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\Week10_9-15thMar_2026\Day 55_12th-Mar_2026\RoutingAuthentication\obj\Debug\net10.0\compressed\4w96lcv5fo-{0}-jj8uyg4cgr-jj8uyg4cgr.gz
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\Week10_9-15thMar_2026\Day 55_12th-Mar_2026\RoutingAuthentication\obj\Debug\net10.0\compressed\5wusrg4o02-{0}-y7v9cxd14o-y7v9cxd14o.gz
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\Week10_9-15thMar_2026\Day 55_12th-Mar_2026\RoutingAuthentication\obj\Debug\net10.0\compressed\66128iumwb-{0}-notf2xhcfb-notf2xhcfb.gz
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\Week10_9-15thMar_2026\Day 55_12th-Mar_2026\RoutingAuthentication\obj\Debug\net10.0\compressed\a59ic8yeeb-{0}-h1s4sie4z3-h1s4sie4z3.gz
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\Week10_9-15thMar_2026\Day 55_12th-Mar_2026\RoutingAuthentication\obj\Debug\net10.0\compressed\2y1fshqp1m-{0}-63fj8s7r0e-63fj8s7r0e.gz
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\Week10_9-15thMar_2026\Day 55_12th-Mar_2026\RoutingAuthentication\obj\Debug\net10.0\compressed\hkbharylt7-{0}-0j3bgjxly4-0j3bgjxly4.gz
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\Week10_9-15thMar_2026\Day 55_12th-Mar_2026\RoutingAuthentication\obj\Debug\net10.0\compressed\mb2j4vgmue-{0}-47otxtyo56-47otxtyo56.gz
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\Week10_9-15thMar_2026\Day 55_12th-Mar_2026\RoutingAuthentication\obj\Debug\net10.0\compressed\rxcrg2a6nl-{0}-4v8eqarkd7-4v8eqarkd7.gz
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\Week10_9-15thMar_2026\Day 55_12th-Mar_2026\RoutingAuthentication\obj\Debug\net10.0\compressed\mj641pf6i3-{0}-356vix0kms-356vix0kms.gz
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\Week10_9-15thMar_2026\Day 55_12th-Mar_2026\RoutingAuthentication\obj\Debug\net10.0\compressed\afy5vl3heu-{0}-83jwlth58m-83jwlth58m.gz
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\Week10_9-15thMar_2026\Day 55_12th-Mar_2026\RoutingAuthentication\obj\Debug\net10.0\compressed\1uubsfwkw8-{0}-mrlpezrjn3-mrlpezrjn3.gz
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\Week10_9-15thMar_2026\Day 55_12th-Mar_2026\RoutingAuthentication\obj\Debug\net10.0\compressed\uxoy60jt24-{0}-lzl9nlhx6b-lzl9nlhx6b.gz
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\Week10_9-15thMar_2026\Day 55_12th-Mar_2026\RoutingAuthentication\obj\Debug\net10.0\compressed\bsjr9out08-{0}-ag7o75518u-ag7o75518u.gz
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\Week10_9-15thMar_2026\Day 55_12th-Mar_2026\RoutingAuthentication\obj\Debug\net10.0\compressed\dxy87m3qvi-{0}-x0q3zqp4vz-x0q3zqp4vz.gz
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\Week10_9-15thMar_2026\Day 55_12th-Mar_2026\RoutingAuthentication\obj\Debug\net10.0\compressed\omjpwe3xt9-{0}-0i3buxo5is-0i3buxo5is.gz
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\Week10_9-15thMar_2026\Day 55_12th-Mar_2026\RoutingAuthentication\obj\Debug\net10.0\compressed\brg9t0hky4-{0}-o1o13a6vjx-o1o13a6vjx.gz
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\Week10_9-15thMar_2026\Day 55_12th-Mar_2026\RoutingAuthentication\obj\Debug\net10.0\compressed\t4qntl0a7d-{0}-ttgo8qnofa-ttgo8qnofa.gz
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\Week10_9-15thMar_2026\Day 55_12th-Mar_2026\RoutingAuthentication\obj\Debug\net10.0\compressed\t13kzg668p-{0}-2z0ns9nrw6-2z0ns9nrw6.gz
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\Week10_9-15thMar_2026\Day 55_12th-Mar_2026\RoutingAuthentication\obj\Debug\net10.0\compressed\dj38pcpfls-{0}-muycvpuwrr-muycvpuwrr.gz
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\Week10_9-15thMar_2026\Day 55_12th-Mar_2026\RoutingAuthentication\obj\Debug\net10.0\compressed\6lasesg3yp-{0}-87fc7y1x7t-87fc7y1x7t.gz
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\Week10_9-15thMar_2026\Day 55_12th-Mar_2026\RoutingAuthentication\obj\Debug\net10.0\compressed\7kdbco9fcd-{0}-mlv21k5csn-mlv21k5csn.gz
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\Week10_9-15thMar_2026\Day 55_12th-Mar_2026\RoutingAuthentication\obj\Debug\net10.0\compressed\q8ca2nddpx-{0}-0xpd5dd1vb-0xpd5dd1vb.gz
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\Week10_9-15thMar_2026\Day 55_12th-Mar_2026\RoutingAuthentication\obj\Debug\net10.0\compressed\foxdatg5vm-{0}-0xpd5dd1vb-0xpd5dd1vb.gz
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\Week10_9-15thMar_2026\Day 55_12th-Mar_2026\RoutingAuthentication\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\Week10_9-15thMar_2026\Day 55_12th-Mar_2026\RoutingAuthentication\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\Week10_9-15thMar_2026\Day 55_12th-Mar_2026\RoutingAuthentication\obj\Debug\net10.0\staticwebassets.development.json
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\Week10_9-15thMar_2026\Day 55_12th-Mar_2026\RoutingAuthentication\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\Week10_9-15thMar_2026\Day 55_12th-Mar_2026\RoutingAuthentication\obj\Debug\net10.0\swae.build.ex.cache
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\Week10_9-15thMar_2026\Day 55_12th-Mar_2026\RoutingAuthentication\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\Week10_9-15thMar_2026\Day 55_12th-Mar_2026\RoutingAuthentication\obj\Debug\net10.0\RoutingAuthentication.dll
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\Week10_9-15thMar_2026\Day 55_12th-Mar_2026\RoutingAuthentication\obj\Debug\net10.0\refint\RoutingAuthentication.dll
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\Week10_9-15thMar_2026\Day 55_12th-Mar_2026\RoutingAuthentication\obj\Debug\net10.0\RoutingAuthentication.pdb
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\Week10_9-15thMar_2026\Day 55_12th-Mar_2026\RoutingAuthentication\obj\Debug\net10.0\RoutingAuthentication.genruntimeconfig.cache
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\Week10_9-15thMar_2026\Day 55_12th-Mar_2026\RoutingAuthentication\obj\Debug\net10.0\ref\RoutingAuthentication.dll
+C:\Users\dell\source\repos\Week10\Day 4 12-03-26\RoutingAuthentication\bin\Debug\net10.0\appsettings.Development.json
+C:\Users\dell\source\repos\Week10\Day 4 12-03-26\RoutingAuthentication\bin\Debug\net10.0\appsettings.json
+C:\Users\dell\source\repos\Week10\Day 4 12-03-26\RoutingAuthentication\bin\Debug\net10.0\RoutingAuthentication.staticwebassets.endpoints.json
+C:\Users\dell\source\repos\Week10\Day 4 12-03-26\RoutingAuthentication\bin\Debug\net10.0\RoutingAuthentication.staticwebassets.runtime.json
+C:\Users\dell\source\repos\Week10\Day 4 12-03-26\RoutingAuthentication\bin\Debug\net10.0\RoutingAuthentication.exe
+C:\Users\dell\source\repos\Week10\Day 4 12-03-26\RoutingAuthentication\bin\Debug\net10.0\RoutingAuthentication.deps.json
+C:\Users\dell\source\repos\Week10\Day 4 12-03-26\RoutingAuthentication\bin\Debug\net10.0\RoutingAuthentication.runtimeconfig.json
+C:\Users\dell\source\repos\Week10\Day 4 12-03-26\RoutingAuthentication\bin\Debug\net10.0\RoutingAuthentication.dll
+C:\Users\dell\source\repos\Week10\Day 4 12-03-26\RoutingAuthentication\bin\Debug\net10.0\RoutingAuthentication.pdb
+C:\Users\dell\source\repos\Week10\Day 4 12-03-26\RoutingAuthentication\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\dell\source\repos\Week10\Day 4 12-03-26\RoutingAuthentication\obj\Debug\net10.0\RoutingAuthentication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\source\repos\Week10\Day 4 12-03-26\RoutingAuthentication\obj\Debug\net10.0\RoutingAuthentication.AssemblyInfoInputs.cache
+C:\Users\dell\source\repos\Week10\Day 4 12-03-26\RoutingAuthentication\obj\Debug\net10.0\RoutingAuthentication.AssemblyInfo.cs
+C:\Users\dell\source\repos\Week10\Day 4 12-03-26\RoutingAuthentication\obj\Debug\net10.0\RoutingAuthentication.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\Week10\Day 4 12-03-26\RoutingAuthentication\obj\Debug\net10.0\RoutingAuthentication.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\dell\source\repos\Week10\Day 4 12-03-26\RoutingAuthentication\obj\Debug\net10.0\RoutingAuthentication.RazorAssemblyInfo.cache
+C:\Users\dell\source\repos\Week10\Day 4 12-03-26\RoutingAuthentication\obj\Debug\net10.0\RoutingAuthentication.RazorAssemblyInfo.cs
+C:\Users\dell\source\repos\Week10\Day 4 12-03-26\RoutingAuthentication\obj\Debug\net10.0\RoutingAuthentication.sourcelink.json
+C:\Users\dell\source\repos\Week10\Day 4 12-03-26\RoutingAuthentication\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Users\dell\source\repos\Week10\Day 4 12-03-26\RoutingAuthentication\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Users\dell\source\repos\Week10\Day 4 12-03-26\RoutingAuthentication\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Users\dell\source\repos\Week10\Day 4 12-03-26\RoutingAuthentication\obj\Debug\net10.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\dell\source\repos\Week10\Day 4 12-03-26\RoutingAuthentication\obj\Debug\net10.0\scopedcss\bundle\RoutingAuthentication.styles.css
+C:\Users\dell\source\repos\Week10\Day 4 12-03-26\RoutingAuthentication\obj\Debug\net10.0\scopedcss\projectbundle\RoutingAuthentication.bundle.scp.css
+C:\Users\dell\source\repos\Week10\Day 4 12-03-26\RoutingAuthentication\obj\Debug\net10.0\compressed\m6e5b8osbd-{0}-b9sayid5wm-b9sayid5wm.gz
+C:\Users\dell\source\repos\Week10\Day 4 12-03-26\RoutingAuthentication\obj\Debug\net10.0\compressed\ggzi2z76e7-{0}-61n19gt1b8-61n19gt1b8.gz
+C:\Users\dell\source\repos\Week10\Day 4 12-03-26\RoutingAuthentication\obj\Debug\net10.0\compressed\8gnab8rpwn-{0}-xtxxf3hu2r-xtxxf3hu2r.gz
+C:\Users\dell\source\repos\Week10\Day 4 12-03-26\RoutingAuthentication\obj\Debug\net10.0\compressed\8b1qqrdhss-{0}-bqjiyaj88i-bqjiyaj88i.gz
+C:\Users\dell\source\repos\Week10\Day 4 12-03-26\RoutingAuthentication\obj\Debug\net10.0\compressed\ybbzq34s0k-{0}-c2jlpeoesf-c2jlpeoesf.gz
+C:\Users\dell\source\repos\Week10\Day 4 12-03-26\RoutingAuthentication\obj\Debug\net10.0\compressed\ibxb2xrg8w-{0}-erw9l3u2r3-erw9l3u2r3.gz
+C:\Users\dell\source\repos\Week10\Day 4 12-03-26\RoutingAuthentication\obj\Debug\net10.0\compressed\3amldjeugt-{0}-aexeepp0ev-aexeepp0ev.gz
+C:\Users\dell\source\repos\Week10\Day 4 12-03-26\RoutingAuthentication\obj\Debug\net10.0\compressed\54avnivru5-{0}-d7shbmvgxk-d7shbmvgxk.gz
+C:\Users\dell\source\repos\Week10\Day 4 12-03-26\RoutingAuthentication\obj\Debug\net10.0\compressed\jpvkmlkic7-{0}-ausgxo2sd3-ausgxo2sd3.gz
+C:\Users\dell\source\repos\Week10\Day 4 12-03-26\RoutingAuthentication\obj\Debug\net10.0\compressed\5kqlrdffq9-{0}-k8d9w2qqmf-k8d9w2qqmf.gz
+C:\Users\dell\source\repos\Week10\Day 4 12-03-26\RoutingAuthentication\obj\Debug\net10.0\compressed\asao92a2wc-{0}-cosvhxvwiu-cosvhxvwiu.gz
+C:\Users\dell\source\repos\Week10\Day 4 12-03-26\RoutingAuthentication\obj\Debug\net10.0\compressed\nsqfmn2d5w-{0}-ub07r2b239-ub07r2b239.gz
+C:\Users\dell\source\repos\Week10\Day 4 12-03-26\RoutingAuthentication\obj\Debug\net10.0\compressed\of3x8m5t77-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
+C:\Users\dell\source\repos\Week10\Day 4 12-03-26\RoutingAuthentication\obj\Debug\net10.0\compressed\ky4gzmh9fc-{0}-b7pk76d08c-b7pk76d08c.gz
+C:\Users\dell\source\repos\Week10\Day 4 12-03-26\RoutingAuthentication\obj\Debug\net10.0\compressed\6dybl9v3qz-{0}-fsbi9cje9m-fsbi9cje9m.gz
+C:\Users\dell\source\repos\Week10\Day 4 12-03-26\RoutingAuthentication\obj\Debug\net10.0\compressed\cw0v7o8iwr-{0}-rzd6atqjts-rzd6atqjts.gz
+C:\Users\dell\source\repos\Week10\Day 4 12-03-26\RoutingAuthentication\obj\Debug\net10.0\compressed\fvjnfplakq-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
+C:\Users\dell\source\repos\Week10\Day 4 12-03-26\RoutingAuthentication\obj\Debug\net10.0\compressed\f61z0517bv-{0}-dxx9fxp4il-dxx9fxp4il.gz
+C:\Users\dell\source\repos\Week10\Day 4 12-03-26\RoutingAuthentication\obj\Debug\net10.0\compressed\wcwj7m3zhd-{0}-jd9uben2k1-jd9uben2k1.gz
+C:\Users\dell\source\repos\Week10\Day 4 12-03-26\RoutingAuthentication\obj\Debug\net10.0\compressed\yzjhfaaipk-{0}-khv3u5hwcm-khv3u5hwcm.gz
+C:\Users\dell\source\repos\Week10\Day 4 12-03-26\RoutingAuthentication\obj\Debug\net10.0\compressed\l4at79s027-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
+C:\Users\dell\source\repos\Week10\Day 4 12-03-26\RoutingAuthentication\obj\Debug\net10.0\compressed\xy43iw1vtu-{0}-lcd1t2u6c8-lcd1t2u6c8.gz
+C:\Users\dell\source\repos\Week10\Day 4 12-03-26\RoutingAuthentication\obj\Debug\net10.0\compressed\00o3iw74gq-{0}-c2oey78nd0-c2oey78nd0.gz
+C:\Users\dell\source\repos\Week10\Day 4 12-03-26\RoutingAuthentication\obj\Debug\net10.0\compressed\umsskhyqad-{0}-tdbxkamptv-tdbxkamptv.gz
+C:\Users\dell\source\repos\Week10\Day 4 12-03-26\RoutingAuthentication\obj\Debug\net10.0\compressed\tri91w87uy-{0}-j5mq2jizvt-j5mq2jizvt.gz
+C:\Users\dell\source\repos\Week10\Day 4 12-03-26\RoutingAuthentication\obj\Debug\net10.0\compressed\l8gjio7nc2-{0}-06098lyss8-06098lyss8.gz
+C:\Users\dell\source\repos\Week10\Day 4 12-03-26\RoutingAuthentication\obj\Debug\net10.0\compressed\uj8400su1k-{0}-nvvlpmu67g-nvvlpmu67g.gz
+C:\Users\dell\source\repos\Week10\Day 4 12-03-26\RoutingAuthentication\obj\Debug\net10.0\compressed\uapfsb9khj-{0}-s35ty4nyc5-s35ty4nyc5.gz
+C:\Users\dell\source\repos\Week10\Day 4 12-03-26\RoutingAuthentication\obj\Debug\net10.0\compressed\1t83151jdl-{0}-pj5nd1wqec-pj5nd1wqec.gz
+C:\Users\dell\source\repos\Week10\Day 4 12-03-26\RoutingAuthentication\obj\Debug\net10.0\compressed\0bhk9avx6a-{0}-46ein0sx1k-46ein0sx1k.gz
+C:\Users\dell\source\repos\Week10\Day 4 12-03-26\RoutingAuthentication\obj\Debug\net10.0\compressed\jer0pfx1x1-{0}-v0zj4ognzu-v0zj4ognzu.gz
+C:\Users\dell\source\repos\Week10\Day 4 12-03-26\RoutingAuthentication\obj\Debug\net10.0\compressed\ifbaprryoy-{0}-37tfw0ft22-37tfw0ft22.gz
+C:\Users\dell\source\repos\Week10\Day 4 12-03-26\RoutingAuthentication\obj\Debug\net10.0\compressed\1177o3pdns-{0}-hrwsygsryq-hrwsygsryq.gz
+C:\Users\dell\source\repos\Week10\Day 4 12-03-26\RoutingAuthentication\obj\Debug\net10.0\compressed\h7qica182i-{0}-pk9g2wxc8p-pk9g2wxc8p.gz
+C:\Users\dell\source\repos\Week10\Day 4 12-03-26\RoutingAuthentication\obj\Debug\net10.0\compressed\u1pz5qa1rg-{0}-ft3s53vfgj-ft3s53vfgj.gz
+C:\Users\dell\source\repos\Week10\Day 4 12-03-26\RoutingAuthentication\obj\Debug\net10.0\compressed\0eaoucitcm-{0}-6cfz1n2cew-6cfz1n2cew.gz
+C:\Users\dell\source\repos\Week10\Day 4 12-03-26\RoutingAuthentication\obj\Debug\net10.0\compressed\jz09aqbu1n-{0}-6pdc2jztkx-6pdc2jztkx.gz
+C:\Users\dell\source\repos\Week10\Day 4 12-03-26\RoutingAuthentication\obj\Debug\net10.0\compressed\qav64sjqdn-{0}-493y06b0oq-493y06b0oq.gz
+C:\Users\dell\source\repos\Week10\Day 4 12-03-26\RoutingAuthentication\obj\Debug\net10.0\compressed\os6upayitu-{0}-iovd86k7lj-iovd86k7lj.gz
+C:\Users\dell\source\repos\Week10\Day 4 12-03-26\RoutingAuthentication\obj\Debug\net10.0\compressed\gm8i820z9d-{0}-vr1egmr9el-vr1egmr9el.gz
+C:\Users\dell\source\repos\Week10\Day 4 12-03-26\RoutingAuthentication\obj\Debug\net10.0\compressed\yhw04svp0q-{0}-kbrnm935zg-kbrnm935zg.gz
+C:\Users\dell\source\repos\Week10\Day 4 12-03-26\RoutingAuthentication\obj\Debug\net10.0\compressed\4w96lcv5fo-{0}-jj8uyg4cgr-jj8uyg4cgr.gz
+C:\Users\dell\source\repos\Week10\Day 4 12-03-26\RoutingAuthentication\obj\Debug\net10.0\compressed\5wusrg4o02-{0}-y7v9cxd14o-y7v9cxd14o.gz
+C:\Users\dell\source\repos\Week10\Day 4 12-03-26\RoutingAuthentication\obj\Debug\net10.0\compressed\66128iumwb-{0}-notf2xhcfb-notf2xhcfb.gz
+C:\Users\dell\source\repos\Week10\Day 4 12-03-26\RoutingAuthentication\obj\Debug\net10.0\compressed\a59ic8yeeb-{0}-h1s4sie4z3-h1s4sie4z3.gz
+C:\Users\dell\source\repos\Week10\Day 4 12-03-26\RoutingAuthentication\obj\Debug\net10.0\compressed\2y1fshqp1m-{0}-63fj8s7r0e-63fj8s7r0e.gz
+C:\Users\dell\source\repos\Week10\Day 4 12-03-26\RoutingAuthentication\obj\Debug\net10.0\compressed\hkbharylt7-{0}-0j3bgjxly4-0j3bgjxly4.gz
+C:\Users\dell\source\repos\Week10\Day 4 12-03-26\RoutingAuthentication\obj\Debug\net10.0\compressed\mb2j4vgmue-{0}-47otxtyo56-47otxtyo56.gz
+C:\Users\dell\source\repos\Week10\Day 4 12-03-26\RoutingAuthentication\obj\Debug\net10.0\compressed\rxcrg2a6nl-{0}-4v8eqarkd7-4v8eqarkd7.gz
+C:\Users\dell\source\repos\Week10\Day 4 12-03-26\RoutingAuthentication\obj\Debug\net10.0\compressed\mj641pf6i3-{0}-356vix0kms-356vix0kms.gz
+C:\Users\dell\source\repos\Week10\Day 4 12-03-26\RoutingAuthentication\obj\Debug\net10.0\compressed\afy5vl3heu-{0}-83jwlth58m-83jwlth58m.gz
+C:\Users\dell\source\repos\Week10\Day 4 12-03-26\RoutingAuthentication\obj\Debug\net10.0\compressed\1uubsfwkw8-{0}-mrlpezrjn3-mrlpezrjn3.gz
+C:\Users\dell\source\repos\Week10\Day 4 12-03-26\RoutingAuthentication\obj\Debug\net10.0\compressed\uxoy60jt24-{0}-lzl9nlhx6b-lzl9nlhx6b.gz
+C:\Users\dell\source\repos\Week10\Day 4 12-03-26\RoutingAuthentication\obj\Debug\net10.0\compressed\bsjr9out08-{0}-ag7o75518u-ag7o75518u.gz
+C:\Users\dell\source\repos\Week10\Day 4 12-03-26\RoutingAuthentication\obj\Debug\net10.0\compressed\dxy87m3qvi-{0}-x0q3zqp4vz-x0q3zqp4vz.gz
+C:\Users\dell\source\repos\Week10\Day 4 12-03-26\RoutingAuthentication\obj\Debug\net10.0\compressed\omjpwe3xt9-{0}-0i3buxo5is-0i3buxo5is.gz
+C:\Users\dell\source\repos\Week10\Day 4 12-03-26\RoutingAuthentication\obj\Debug\net10.0\compressed\brg9t0hky4-{0}-o1o13a6vjx-o1o13a6vjx.gz
+C:\Users\dell\source\repos\Week10\Day 4 12-03-26\RoutingAuthentication\obj\Debug\net10.0\compressed\t4qntl0a7d-{0}-ttgo8qnofa-ttgo8qnofa.gz
+C:\Users\dell\source\repos\Week10\Day 4 12-03-26\RoutingAuthentication\obj\Debug\net10.0\compressed\t13kzg668p-{0}-2z0ns9nrw6-2z0ns9nrw6.gz
+C:\Users\dell\source\repos\Week10\Day 4 12-03-26\RoutingAuthentication\obj\Debug\net10.0\compressed\dj38pcpfls-{0}-muycvpuwrr-muycvpuwrr.gz
+C:\Users\dell\source\repos\Week10\Day 4 12-03-26\RoutingAuthentication\obj\Debug\net10.0\compressed\6lasesg3yp-{0}-87fc7y1x7t-87fc7y1x7t.gz
+C:\Users\dell\source\repos\Week10\Day 4 12-03-26\RoutingAuthentication\obj\Debug\net10.0\compressed\7kdbco9fcd-{0}-mlv21k5csn-mlv21k5csn.gz
+C:\Users\dell\source\repos\Week10\Day 4 12-03-26\RoutingAuthentication\obj\Debug\net10.0\compressed\q8ca2nddpx-{0}-0xpd5dd1vb-0xpd5dd1vb.gz
+C:\Users\dell\source\repos\Week10\Day 4 12-03-26\RoutingAuthentication\obj\Debug\net10.0\compressed\foxdatg5vm-{0}-0xpd5dd1vb-0xpd5dd1vb.gz
+C:\Users\dell\source\repos\Week10\Day 4 12-03-26\RoutingAuthentication\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\dell\source\repos\Week10\Day 4 12-03-26\RoutingAuthentication\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Users\dell\source\repos\Week10\Day 4 12-03-26\RoutingAuthentication\obj\Debug\net10.0\staticwebassets.development.json
+C:\Users\dell\source\repos\Week10\Day 4 12-03-26\RoutingAuthentication\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Users\dell\source\repos\Week10\Day 4 12-03-26\RoutingAuthentication\obj\Debug\net10.0\swae.build.ex.cache
+C:\Users\dell\source\repos\Week10\Day 4 12-03-26\RoutingAuthentication\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+C:\Users\dell\source\repos\Week10\Day 4 12-03-26\RoutingAuthentication\obj\Debug\net10.0\RoutingAuthentication.dll
+C:\Users\dell\source\repos\Week10\Day 4 12-03-26\RoutingAuthentication\obj\Debug\net10.0\refint\RoutingAuthentication.dll
+C:\Users\dell\source\repos\Week10\Day 4 12-03-26\RoutingAuthentication\obj\Debug\net10.0\RoutingAuthentication.pdb
+C:\Users\dell\source\repos\Week10\Day 4 12-03-26\RoutingAuthentication\obj\Debug\net10.0\RoutingAuthentication.genruntimeconfig.cache
+C:\Users\dell\source\repos\Week10\Day 4 12-03-26\RoutingAuthentication\obj\Debug\net10.0\ref\RoutingAuthentication.dll

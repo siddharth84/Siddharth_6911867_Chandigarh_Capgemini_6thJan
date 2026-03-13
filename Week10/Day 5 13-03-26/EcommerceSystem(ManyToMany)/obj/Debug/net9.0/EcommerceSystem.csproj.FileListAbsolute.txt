@@ -1,0 +1,692 @@
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\bin\Debug\net9.0\appsettings.json
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\bin\Debug\net9.0\EcommerceSystem.staticwebassets.runtime.json
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\bin\Debug\net9.0\EcommerceSystem.staticwebassets.endpoints.json
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\bin\Debug\net9.0\EcommerceSystem.exe
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\bin\Debug\net9.0\EcommerceSystem.deps.json
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\bin\Debug\net9.0\EcommerceSystem.runtimeconfig.json
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\bin\Debug\net9.0\EcommerceSystem.dll
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\bin\Debug\net9.0\EcommerceSystem.pdb
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\bin\Debug\net9.0\Azure.Core.dll
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\bin\Debug\net9.0\Azure.Identity.dll
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\bin\Debug\net9.0\Humanizer.dll
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\bin\Debug\net9.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\bin\Debug\net9.0\Microsoft.Build.dll
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\bin\Debug\net9.0\Microsoft.Build.Framework.dll
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\bin\Debug\net9.0\Microsoft.Build.Tasks.Core.dll
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\bin\Debug\net9.0\Microsoft.Build.Utilities.Core.dll
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\bin\Debug\net9.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\bin\Debug\net9.0\Microsoft.CodeAnalysis.Elfie.dll
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\bin\Debug\net9.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\bin\Debug\net9.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\bin\Debug\net9.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\bin\Debug\net9.0\Microsoft.CodeAnalysis.ExternalAccess.RazorCompiler.dll
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\bin\Debug\net9.0\Microsoft.DiaSymReader.dll
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\bin\Debug\net9.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\bin\Debug\net9.0\Microsoft.NET.StringTools.dll
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\bin\Debug\net9.0\Microsoft.VisualStudio.Setup.Configuration.Interop.dll
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\bin\Debug\net9.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\bin\Debug\net9.0\Mono.TextTemplating.dll
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\bin\Debug\net9.0\Newtonsoft.Json.dll
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\bin\Debug\net9.0\NuGet.Common.dll
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\bin\Debug\net9.0\NuGet.Configuration.dll
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\bin\Debug\net9.0\NuGet.DependencyResolver.Core.dll
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\bin\Debug\net9.0\NuGet.Frameworks.dll
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\bin\Debug\net9.0\NuGet.LibraryModel.dll
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\bin\Debug\net9.0\NuGet.Packaging.dll
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\bin\Debug\net9.0\NuGet.ProjectModel.dll
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\bin\Debug\net9.0\NuGet.Protocol.dll
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\bin\Debug\net9.0\NuGet.Versioning.dll
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\bin\Debug\net9.0\System.ClientModel.dll
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\bin\Debug\net9.0\System.CodeDom.dll
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\bin\Debug\net9.0\System.Composition.Convention.dll
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\bin\Debug\net9.0\System.Composition.Hosting.dll
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\bin\Debug\net9.0\System.Composition.Runtime.dll
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\bin\Debug\net9.0\System.Composition.TypedParts.dll
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\bin\Debug\net9.0\System.Memory.Data.dll
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\bin\Debug\net9.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\bin\Debug\net9.0\System.Resources.Extensions.dll
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\bin\Debug\net9.0\System.Runtime.Caching.dll
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\bin\Debug\net9.0\System.Security.Permissions.dll
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\bin\Debug\net9.0\System.Windows.Extensions.dll
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\bin\Debug\net9.0\af\Humanizer.resources.dll
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\bin\Debug\net9.0\ar\Humanizer.resources.dll
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\bin\Debug\net9.0\az\Humanizer.resources.dll
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\bin\Debug\net9.0\bg\Humanizer.resources.dll
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\bin\Debug\net9.0\bn-BD\Humanizer.resources.dll
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\bin\Debug\net9.0\cs\Humanizer.resources.dll
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\bin\Debug\net9.0\da\Humanizer.resources.dll
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\bin\Debug\net9.0\de\Humanizer.resources.dll
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\bin\Debug\net9.0\el\Humanizer.resources.dll
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\bin\Debug\net9.0\es\Humanizer.resources.dll
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\bin\Debug\net9.0\fa\Humanizer.resources.dll
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\bin\Debug\net9.0\fi-FI\Humanizer.resources.dll
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\bin\Debug\net9.0\fr\Humanizer.resources.dll
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\bin\Debug\net9.0\fr-BE\Humanizer.resources.dll
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\bin\Debug\net9.0\he\Humanizer.resources.dll
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\bin\Debug\net9.0\hr\Humanizer.resources.dll
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\bin\Debug\net9.0\hu\Humanizer.resources.dll
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\bin\Debug\net9.0\hy\Humanizer.resources.dll
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\bin\Debug\net9.0\id\Humanizer.resources.dll
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\bin\Debug\net9.0\is\Humanizer.resources.dll
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\bin\Debug\net9.0\it\Humanizer.resources.dll
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\bin\Debug\net9.0\ja\Humanizer.resources.dll
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\bin\Debug\net9.0\ko-KR\Humanizer.resources.dll
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\bin\Debug\net9.0\ku\Humanizer.resources.dll
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\bin\Debug\net9.0\lv\Humanizer.resources.dll
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\bin\Debug\net9.0\ms-MY\Humanizer.resources.dll
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\bin\Debug\net9.0\mt\Humanizer.resources.dll
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\bin\Debug\net9.0\nb\Humanizer.resources.dll
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\bin\Debug\net9.0\nb-NO\Humanizer.resources.dll
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\bin\Debug\net9.0\nl\Humanizer.resources.dll
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\bin\Debug\net9.0\pl\Humanizer.resources.dll
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\bin\Debug\net9.0\pt\Humanizer.resources.dll
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\bin\Debug\net9.0\ro\Humanizer.resources.dll
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\bin\Debug\net9.0\ru\Humanizer.resources.dll
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\bin\Debug\net9.0\sk\Humanizer.resources.dll
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\bin\Debug\net9.0\sl\Humanizer.resources.dll
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\bin\Debug\net9.0\sr\Humanizer.resources.dll
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\bin\Debug\net9.0\sr-Latn\Humanizer.resources.dll
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\bin\Debug\net9.0\sv\Humanizer.resources.dll
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\bin\Debug\net9.0\th-TH\Humanizer.resources.dll
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\bin\Debug\net9.0\tr\Humanizer.resources.dll
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\bin\Debug\net9.0\uk\Humanizer.resources.dll
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\bin\Debug\net9.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\bin\Debug\net9.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\bin\Debug\net9.0\vi\Humanizer.resources.dll
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\bin\Debug\net9.0\zh-CN\Humanizer.resources.dll
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\bin\Debug\net9.0\zh-Hans\Humanizer.resources.dll
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\bin\Debug\net9.0\zh-Hant\Humanizer.resources.dll
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\bin\Debug\net9.0\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\obj\Debug\net9.0\EcommerceSystem.csproj.AssemblyReference.cache
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\obj\Debug\net9.0\EcommerceSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\obj\Debug\net9.0\EcommerceSystem.AssemblyInfoInputs.cache
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\obj\Debug\net9.0\EcommerceSystem.AssemblyInfo.cs
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\obj\Debug\net9.0\EcommerceSystem.csproj.CoreCompileInputs.cache
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\obj\Debug\net9.0\EcommerceSystem.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\obj\Debug\net9.0\EcommerceSystem.RazorAssemblyInfo.cache
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\obj\Debug\net9.0\EcommerceSystem.RazorAssemblyInfo.cs
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\obj\Debug\net9.0\EcommerceSystem.sourcelink.json
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\obj\Debug\net9.0\scopedcss\bundle\EcommerceSystem.styles.css
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\obj\Debug\net9.0\scopedcss\projectbundle\EcommerceSystem.bundle.scp.css
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\obj\Debug\net9.0\compressed\7zw018xeeg-{0}-b9sayid5wm-b9sayid5wm.gz
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\obj\Debug\net9.0\compressed\d5nu4y8972-{0}-61n19gt1b8-61n19gt1b8.gz
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\obj\Debug\net9.0\compressed\edsmmhu7fq-{0}-xtxxf3hu2r-xtxxf3hu2r.gz
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\obj\Debug\net9.0\compressed\92kwepqesm-{0}-bqjiyaj88i-bqjiyaj88i.gz
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\obj\Debug\net9.0\compressed\21pn9aai47-{0}-c2jlpeoesf-c2jlpeoesf.gz
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\obj\Debug\net9.0\compressed\xqqw0px6b1-{0}-erw9l3u2r3-erw9l3u2r3.gz
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\obj\Debug\net9.0\compressed\094lap4jxe-{0}-aexeepp0ev-aexeepp0ev.gz
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\obj\Debug\net9.0\compressed\6lrgfpacmt-{0}-d7shbmvgxk-d7shbmvgxk.gz
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\obj\Debug\net9.0\compressed\mx0vxwbuz6-{0}-ausgxo2sd3-ausgxo2sd3.gz
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\obj\Debug\net9.0\compressed\pe2qkanhf5-{0}-k8d9w2qqmf-k8d9w2qqmf.gz
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\obj\Debug\net9.0\compressed\nmdyhdj0ha-{0}-cosvhxvwiu-cosvhxvwiu.gz
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\obj\Debug\net9.0\compressed\erimqgffam-{0}-ub07r2b239-ub07r2b239.gz
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\obj\Debug\net9.0\compressed\26tmatpc4p-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\obj\Debug\net9.0\compressed\3e2wg5r7pk-{0}-b7pk76d08c-b7pk76d08c.gz
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\obj\Debug\net9.0\compressed\qggpqh9jhu-{0}-fsbi9cje9m-fsbi9cje9m.gz
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\obj\Debug\net9.0\compressed\nbj23tnyjq-{0}-rzd6atqjts-rzd6atqjts.gz
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\obj\Debug\net9.0\compressed\vuqgpm671v-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\obj\Debug\net9.0\compressed\qlp4944oba-{0}-dxx9fxp4il-dxx9fxp4il.gz
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\obj\Debug\net9.0\compressed\s9ysq26tz0-{0}-jd9uben2k1-jd9uben2k1.gz
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\obj\Debug\net9.0\compressed\vqve5dzgbi-{0}-khv3u5hwcm-khv3u5hwcm.gz
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\obj\Debug\net9.0\compressed\rzo6j18b0j-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\obj\Debug\net9.0\compressed\v0hhktikyq-{0}-lcd1t2u6c8-lcd1t2u6c8.gz
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\obj\Debug\net9.0\compressed\wet3lsbhmc-{0}-c2oey78nd0-c2oey78nd0.gz
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\obj\Debug\net9.0\compressed\wzib84qn9b-{0}-tdbxkamptv-tdbxkamptv.gz
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\obj\Debug\net9.0\compressed\1qklafdtye-{0}-j5mq2jizvt-j5mq2jizvt.gz
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\obj\Debug\net9.0\compressed\0ozodq1hol-{0}-06098lyss8-06098lyss8.gz
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\obj\Debug\net9.0\compressed\gxk747ehkw-{0}-nvvlpmu67g-nvvlpmu67g.gz
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\obj\Debug\net9.0\compressed\5pr03rbm63-{0}-s35ty4nyc5-s35ty4nyc5.gz
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\obj\Debug\net9.0\compressed\vstpbxdfi0-{0}-pj5nd1wqec-pj5nd1wqec.gz
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\obj\Debug\net9.0\compressed\r83otiulbg-{0}-46ein0sx1k-46ein0sx1k.gz
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\obj\Debug\net9.0\compressed\9awxjjcyaq-{0}-v0zj4ognzu-v0zj4ognzu.gz
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\obj\Debug\net9.0\compressed\qgolfec5xn-{0}-37tfw0ft22-37tfw0ft22.gz
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\obj\Debug\net9.0\compressed\4j20y93adk-{0}-hrwsygsryq-hrwsygsryq.gz
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\obj\Debug\net9.0\compressed\rc8i0firjs-{0}-pk9g2wxc8p-pk9g2wxc8p.gz
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\obj\Debug\net9.0\compressed\vb11ymju6m-{0}-ft3s53vfgj-ft3s53vfgj.gz
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\obj\Debug\net9.0\compressed\k271z6ls7b-{0}-6cfz1n2cew-6cfz1n2cew.gz
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\obj\Debug\net9.0\compressed\gz1927tqxu-{0}-6pdc2jztkx-6pdc2jztkx.gz
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\obj\Debug\net9.0\compressed\7sjfrh2l74-{0}-493y06b0oq-493y06b0oq.gz
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\obj\Debug\net9.0\compressed\yqtsgrz6xd-{0}-iovd86k7lj-iovd86k7lj.gz
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\obj\Debug\net9.0\compressed\th53mrmxrt-{0}-vr1egmr9el-vr1egmr9el.gz
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\obj\Debug\net9.0\compressed\htfkxz0kc3-{0}-kbrnm935zg-kbrnm935zg.gz
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\obj\Debug\net9.0\compressed\bba5nelgyz-{0}-jj8uyg4cgr-jj8uyg4cgr.gz
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\obj\Debug\net9.0\compressed\fynu8lorm2-{0}-y7v9cxd14o-y7v9cxd14o.gz
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\obj\Debug\net9.0\compressed\gokgz0gyjp-{0}-notf2xhcfb-notf2xhcfb.gz
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\obj\Debug\net9.0\compressed\x79n5q1izs-{0}-h1s4sie4z3-h1s4sie4z3.gz
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\obj\Debug\net9.0\compressed\12rl1yestx-{0}-63fj8s7r0e-63fj8s7r0e.gz
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\obj\Debug\net9.0\compressed\kzd6v8yw0r-{0}-0j3bgjxly4-0j3bgjxly4.gz
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\obj\Debug\net9.0\compressed\mjda5o7293-{0}-47otxtyo56-47otxtyo56.gz
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\obj\Debug\net9.0\compressed\vkezs5pnr0-{0}-4v8eqarkd7-4v8eqarkd7.gz
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\obj\Debug\net9.0\compressed\c5dt3mbqz1-{0}-356vix0kms-356vix0kms.gz
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\obj\Debug\net9.0\compressed\suhusok4n6-{0}-83jwlth58m-83jwlth58m.gz
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\obj\Debug\net9.0\compressed\19yx30v38p-{0}-mrlpezrjn3-mrlpezrjn3.gz
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\obj\Debug\net9.0\compressed\rgtkl2wfvz-{0}-lzl9nlhx6b-lzl9nlhx6b.gz
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\obj\Debug\net9.0\compressed\jlysk0edag-{0}-ag7o75518u-ag7o75518u.gz
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\obj\Debug\net9.0\compressed\rlotv16snn-{0}-x0q3zqp4vz-x0q3zqp4vz.gz
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\obj\Debug\net9.0\compressed\z2uydm98vn-{0}-0i3buxo5is-0i3buxo5is.gz
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\obj\Debug\net9.0\compressed\ul0hx7lax7-{0}-o1o13a6vjx-o1o13a6vjx.gz
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\obj\Debug\net9.0\compressed\8fftxi0dq8-{0}-ttgo8qnofa-ttgo8qnofa.gz
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\obj\Debug\net9.0\compressed\9qw8pn9ags-{0}-2z0ns9nrw6-2z0ns9nrw6.gz
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\obj\Debug\net9.0\compressed\kii5tkuxda-{0}-muycvpuwrr-muycvpuwrr.gz
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\obj\Debug\net9.0\compressed\3shjsicdrc-{0}-87fc7y1x7t-87fc7y1x7t.gz
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\obj\Debug\net9.0\compressed\gob3y1pqfv-{0}-mlv21k5csn-mlv21k5csn.gz
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\obj\Debug\net9.0\compressed\w1a4rgotzh-{0}-bcgvm117py-bcgvm117py.gz
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\obj\Debug\net9.0\compressed\hxc0tm61mn-{0}-bcgvm117py-bcgvm117py.gz
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\obj\Debug\net9.0\swae.build.ex.cache
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\obj\Debug\net9.0\Ecommerc.4D3745B1.Up2Date
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\obj\Debug\net9.0\EcommerceSystem.dll
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\obj\Debug\net9.0\refint\EcommerceSystem.dll
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\obj\Debug\net9.0\EcommerceSystem.pdb
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\obj\Debug\net9.0\EcommerceSystem.genruntimeconfig.cache
+C:\Users\Parth\source\repos\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\PlanetsProjects\EcommerceSystem\obj\Debug\net9.0\ref\EcommerceSystem.dll
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\bin\Debug\net9.0\appsettings.Development.json
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\bin\Debug\net9.0\appsettings.json
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\bin\Debug\net9.0\EcommerceSystem.staticwebassets.endpoints.json
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\bin\Debug\net9.0\EcommerceSystem.staticwebassets.runtime.json
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\bin\Debug\net9.0\EcommerceSystem.exe
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\bin\Debug\net9.0\EcommerceSystem.deps.json
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\bin\Debug\net9.0\EcommerceSystem.runtimeconfig.json
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\bin\Debug\net9.0\EcommerceSystem.dll
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\bin\Debug\net9.0\EcommerceSystem.pdb
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\bin\Debug\net9.0\Azure.Core.dll
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\bin\Debug\net9.0\Azure.Identity.dll
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\bin\Debug\net9.0\Humanizer.dll
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\bin\Debug\net9.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\bin\Debug\net9.0\Microsoft.Build.dll
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\bin\Debug\net9.0\Microsoft.Build.Framework.dll
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\bin\Debug\net9.0\Microsoft.Build.Tasks.Core.dll
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\bin\Debug\net9.0\Microsoft.Build.Utilities.Core.dll
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\bin\Debug\net9.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\bin\Debug\net9.0\Microsoft.CodeAnalysis.Elfie.dll
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\bin\Debug\net9.0\Microsoft.CodeAnalysis.Features.dll
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\bin\Debug\net9.0\Microsoft.CodeAnalysis.Razor.dll
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\bin\Debug\net9.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\bin\Debug\net9.0\Microsoft.CodeAnalysis.ExternalAccess.RazorCompiler.dll
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\bin\Debug\net9.0\Microsoft.DiaSymReader.dll
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\bin\Debug\net9.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\bin\Debug\net9.0\Microsoft.NET.StringTools.dll
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\bin\Debug\net9.0\Microsoft.VisualStudio.Setup.Configuration.Interop.dll
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\bin\Debug\net9.0\dotnet-aspnet-codegenerator-design.dll
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\bin\Debug\net9.0\Mono.TextTemplating.dll
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\bin\Debug\net9.0\Newtonsoft.Json.dll
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\bin\Debug\net9.0\NuGet.Common.dll
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\bin\Debug\net9.0\NuGet.Configuration.dll
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\bin\Debug\net9.0\NuGet.DependencyResolver.Core.dll
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\bin\Debug\net9.0\NuGet.Frameworks.dll
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\bin\Debug\net9.0\NuGet.LibraryModel.dll
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\bin\Debug\net9.0\NuGet.Packaging.dll
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\bin\Debug\net9.0\NuGet.ProjectModel.dll
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\bin\Debug\net9.0\NuGet.Protocol.dll
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\bin\Debug\net9.0\NuGet.Versioning.dll
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\bin\Debug\net9.0\System.ClientModel.dll
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\bin\Debug\net9.0\System.CodeDom.dll
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\bin\Debug\net9.0\System.Composition.Convention.dll
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\bin\Debug\net9.0\System.Composition.Hosting.dll
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\bin\Debug\net9.0\System.Composition.Runtime.dll
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\bin\Debug\net9.0\System.Composition.TypedParts.dll
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\bin\Debug\net9.0\System.Memory.Data.dll
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\bin\Debug\net9.0\System.Reflection.MetadataLoadContext.dll
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\bin\Debug\net9.0\System.Resources.Extensions.dll
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\bin\Debug\net9.0\System.Runtime.Caching.dll
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\bin\Debug\net9.0\System.Security.Permissions.dll
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\bin\Debug\net9.0\System.Windows.Extensions.dll
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\bin\Debug\net9.0\af\Humanizer.resources.dll
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\bin\Debug\net9.0\ar\Humanizer.resources.dll
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\bin\Debug\net9.0\az\Humanizer.resources.dll
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\bin\Debug\net9.0\bg\Humanizer.resources.dll
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\bin\Debug\net9.0\bn-BD\Humanizer.resources.dll
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\bin\Debug\net9.0\cs\Humanizer.resources.dll
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\bin\Debug\net9.0\da\Humanizer.resources.dll
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\bin\Debug\net9.0\de\Humanizer.resources.dll
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\bin\Debug\net9.0\el\Humanizer.resources.dll
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\bin\Debug\net9.0\es\Humanizer.resources.dll
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\bin\Debug\net9.0\fa\Humanizer.resources.dll
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\bin\Debug\net9.0\fi-FI\Humanizer.resources.dll
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\bin\Debug\net9.0\fr\Humanizer.resources.dll
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\bin\Debug\net9.0\fr-BE\Humanizer.resources.dll
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\bin\Debug\net9.0\he\Humanizer.resources.dll
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\bin\Debug\net9.0\hr\Humanizer.resources.dll
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\bin\Debug\net9.0\hu\Humanizer.resources.dll
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\bin\Debug\net9.0\hy\Humanizer.resources.dll
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\bin\Debug\net9.0\id\Humanizer.resources.dll
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\bin\Debug\net9.0\is\Humanizer.resources.dll
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\bin\Debug\net9.0\it\Humanizer.resources.dll
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\bin\Debug\net9.0\ja\Humanizer.resources.dll
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\bin\Debug\net9.0\ko-KR\Humanizer.resources.dll
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\bin\Debug\net9.0\ku\Humanizer.resources.dll
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\bin\Debug\net9.0\lv\Humanizer.resources.dll
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\bin\Debug\net9.0\ms-MY\Humanizer.resources.dll
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\bin\Debug\net9.0\mt\Humanizer.resources.dll
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\bin\Debug\net9.0\nb\Humanizer.resources.dll
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\bin\Debug\net9.0\nb-NO\Humanizer.resources.dll
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\bin\Debug\net9.0\nl\Humanizer.resources.dll
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\bin\Debug\net9.0\pl\Humanizer.resources.dll
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\bin\Debug\net9.0\pt\Humanizer.resources.dll
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\bin\Debug\net9.0\ro\Humanizer.resources.dll
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\bin\Debug\net9.0\ru\Humanizer.resources.dll
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\bin\Debug\net9.0\sk\Humanizer.resources.dll
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\bin\Debug\net9.0\sl\Humanizer.resources.dll
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\bin\Debug\net9.0\sr\Humanizer.resources.dll
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\bin\Debug\net9.0\sr-Latn\Humanizer.resources.dll
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\bin\Debug\net9.0\sv\Humanizer.resources.dll
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\bin\Debug\net9.0\th-TH\Humanizer.resources.dll
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\bin\Debug\net9.0\tr\Humanizer.resources.dll
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\bin\Debug\net9.0\uk\Humanizer.resources.dll
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\bin\Debug\net9.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\bin\Debug\net9.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\bin\Debug\net9.0\vi\Humanizer.resources.dll
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\bin\Debug\net9.0\zh-CN\Humanizer.resources.dll
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\bin\Debug\net9.0\zh-Hans\Humanizer.resources.dll
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\bin\Debug\net9.0\zh-Hant\Humanizer.resources.dll
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\bin\Debug\net9.0\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\obj\Debug\net9.0\EcommerceSystem.csproj.AssemblyReference.cache
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\obj\Debug\net9.0\EcommerceSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\obj\Debug\net9.0\EcommerceSystem.AssemblyInfoInputs.cache
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\obj\Debug\net9.0\EcommerceSystem.AssemblyInfo.cs
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\obj\Debug\net9.0\EcommerceSystem.csproj.CoreCompileInputs.cache
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\obj\Debug\net9.0\EcommerceSystem.MvcApplicationPartsAssemblyInfo.cache
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\obj\Debug\net9.0\EcommerceSystem.RazorAssemblyInfo.cache
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\obj\Debug\net9.0\EcommerceSystem.RazorAssemblyInfo.cs
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\obj\Debug\net9.0\EcommerceSystem.sourcelink.json
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\obj\Debug\net9.0\scopedcss\bundle\EcommerceSystem.styles.css
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\obj\Debug\net9.0\scopedcss\projectbundle\EcommerceSystem.bundle.scp.css
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\obj\Debug\net9.0\compressed\7zw018xeeg-{0}-b9sayid5wm-b9sayid5wm.gz
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\obj\Debug\net9.0\compressed\d5nu4y8972-{0}-61n19gt1b8-61n19gt1b8.gz
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\obj\Debug\net9.0\compressed\edsmmhu7fq-{0}-xtxxf3hu2r-xtxxf3hu2r.gz
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\obj\Debug\net9.0\compressed\92kwepqesm-{0}-bqjiyaj88i-bqjiyaj88i.gz
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\obj\Debug\net9.0\compressed\21pn9aai47-{0}-c2jlpeoesf-c2jlpeoesf.gz
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\obj\Debug\net9.0\compressed\xqqw0px6b1-{0}-erw9l3u2r3-erw9l3u2r3.gz
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\obj\Debug\net9.0\compressed\094lap4jxe-{0}-aexeepp0ev-aexeepp0ev.gz
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\obj\Debug\net9.0\compressed\6lrgfpacmt-{0}-d7shbmvgxk-d7shbmvgxk.gz
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\obj\Debug\net9.0\compressed\mx0vxwbuz6-{0}-ausgxo2sd3-ausgxo2sd3.gz
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\obj\Debug\net9.0\compressed\pe2qkanhf5-{0}-k8d9w2qqmf-k8d9w2qqmf.gz
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\obj\Debug\net9.0\compressed\nmdyhdj0ha-{0}-cosvhxvwiu-cosvhxvwiu.gz
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\obj\Debug\net9.0\compressed\erimqgffam-{0}-ub07r2b239-ub07r2b239.gz
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\obj\Debug\net9.0\compressed\26tmatpc4p-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\obj\Debug\net9.0\compressed\3e2wg5r7pk-{0}-b7pk76d08c-b7pk76d08c.gz
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\obj\Debug\net9.0\compressed\qggpqh9jhu-{0}-fsbi9cje9m-fsbi9cje9m.gz
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\obj\Debug\net9.0\compressed\nbj23tnyjq-{0}-rzd6atqjts-rzd6atqjts.gz
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\obj\Debug\net9.0\compressed\vuqgpm671v-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\obj\Debug\net9.0\compressed\qlp4944oba-{0}-dxx9fxp4il-dxx9fxp4il.gz
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\obj\Debug\net9.0\compressed\s9ysq26tz0-{0}-jd9uben2k1-jd9uben2k1.gz
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\obj\Debug\net9.0\compressed\vqve5dzgbi-{0}-khv3u5hwcm-khv3u5hwcm.gz
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\obj\Debug\net9.0\compressed\rzo6j18b0j-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\obj\Debug\net9.0\compressed\v0hhktikyq-{0}-lcd1t2u6c8-lcd1t2u6c8.gz
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\obj\Debug\net9.0\compressed\wet3lsbhmc-{0}-c2oey78nd0-c2oey78nd0.gz
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\obj\Debug\net9.0\compressed\wzib84qn9b-{0}-tdbxkamptv-tdbxkamptv.gz
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\obj\Debug\net9.0\compressed\1qklafdtye-{0}-j5mq2jizvt-j5mq2jizvt.gz
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\obj\Debug\net9.0\compressed\0ozodq1hol-{0}-06098lyss8-06098lyss8.gz
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\obj\Debug\net9.0\compressed\gxk747ehkw-{0}-nvvlpmu67g-nvvlpmu67g.gz
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\obj\Debug\net9.0\compressed\5pr03rbm63-{0}-s35ty4nyc5-s35ty4nyc5.gz
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\obj\Debug\net9.0\compressed\vstpbxdfi0-{0}-pj5nd1wqec-pj5nd1wqec.gz
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\obj\Debug\net9.0\compressed\r83otiulbg-{0}-46ein0sx1k-46ein0sx1k.gz
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\obj\Debug\net9.0\compressed\9awxjjcyaq-{0}-v0zj4ognzu-v0zj4ognzu.gz
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\obj\Debug\net9.0\compressed\qgolfec5xn-{0}-37tfw0ft22-37tfw0ft22.gz
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\obj\Debug\net9.0\compressed\4j20y93adk-{0}-hrwsygsryq-hrwsygsryq.gz
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\obj\Debug\net9.0\compressed\rc8i0firjs-{0}-pk9g2wxc8p-pk9g2wxc8p.gz
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\obj\Debug\net9.0\compressed\vb11ymju6m-{0}-ft3s53vfgj-ft3s53vfgj.gz
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\obj\Debug\net9.0\compressed\k271z6ls7b-{0}-6cfz1n2cew-6cfz1n2cew.gz
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\obj\Debug\net9.0\compressed\gz1927tqxu-{0}-6pdc2jztkx-6pdc2jztkx.gz
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\obj\Debug\net9.0\compressed\7sjfrh2l74-{0}-493y06b0oq-493y06b0oq.gz
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\obj\Debug\net9.0\compressed\yqtsgrz6xd-{0}-iovd86k7lj-iovd86k7lj.gz
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\obj\Debug\net9.0\compressed\th53mrmxrt-{0}-vr1egmr9el-vr1egmr9el.gz
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\obj\Debug\net9.0\compressed\htfkxz0kc3-{0}-kbrnm935zg-kbrnm935zg.gz
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\obj\Debug\net9.0\compressed\bba5nelgyz-{0}-jj8uyg4cgr-jj8uyg4cgr.gz
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\obj\Debug\net9.0\compressed\fynu8lorm2-{0}-y7v9cxd14o-y7v9cxd14o.gz
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\obj\Debug\net9.0\compressed\gokgz0gyjp-{0}-notf2xhcfb-notf2xhcfb.gz
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\obj\Debug\net9.0\compressed\x79n5q1izs-{0}-h1s4sie4z3-h1s4sie4z3.gz
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\obj\Debug\net9.0\compressed\12rl1yestx-{0}-63fj8s7r0e-63fj8s7r0e.gz
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\obj\Debug\net9.0\compressed\kzd6v8yw0r-{0}-0j3bgjxly4-0j3bgjxly4.gz
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\obj\Debug\net9.0\compressed\mjda5o7293-{0}-47otxtyo56-47otxtyo56.gz
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\obj\Debug\net9.0\compressed\vkezs5pnr0-{0}-4v8eqarkd7-4v8eqarkd7.gz
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\obj\Debug\net9.0\compressed\c5dt3mbqz1-{0}-356vix0kms-356vix0kms.gz
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\obj\Debug\net9.0\compressed\suhusok4n6-{0}-83jwlth58m-83jwlth58m.gz
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\obj\Debug\net9.0\compressed\19yx30v38p-{0}-mrlpezrjn3-mrlpezrjn3.gz
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\obj\Debug\net9.0\compressed\rgtkl2wfvz-{0}-lzl9nlhx6b-lzl9nlhx6b.gz
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\obj\Debug\net9.0\compressed\jlysk0edag-{0}-ag7o75518u-ag7o75518u.gz
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\obj\Debug\net9.0\compressed\rlotv16snn-{0}-x0q3zqp4vz-x0q3zqp4vz.gz
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\obj\Debug\net9.0\compressed\z2uydm98vn-{0}-0i3buxo5is-0i3buxo5is.gz
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\obj\Debug\net9.0\compressed\ul0hx7lax7-{0}-o1o13a6vjx-o1o13a6vjx.gz
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\obj\Debug\net9.0\compressed\8fftxi0dq8-{0}-ttgo8qnofa-ttgo8qnofa.gz
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\obj\Debug\net9.0\compressed\9qw8pn9ags-{0}-2z0ns9nrw6-2z0ns9nrw6.gz
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\obj\Debug\net9.0\compressed\kii5tkuxda-{0}-muycvpuwrr-muycvpuwrr.gz
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\obj\Debug\net9.0\compressed\3shjsicdrc-{0}-87fc7y1x7t-87fc7y1x7t.gz
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\obj\Debug\net9.0\compressed\gob3y1pqfv-{0}-mlv21k5csn-mlv21k5csn.gz
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\obj\Debug\net9.0\compressed\w1a4rgotzh-{0}-bcgvm117py-bcgvm117py.gz
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\obj\Debug\net9.0\compressed\hxc0tm61mn-{0}-bcgvm117py-bcgvm117py.gz
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\obj\Debug\net9.0\staticwebassets.build.json
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\obj\Debug\net9.0\staticwebassets.development.json
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\obj\Debug\net9.0\swae.build.ex.cache
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\obj\Debug\net9.0\Ecommerc.4D3745B1.Up2Date
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\obj\Debug\net9.0\EcommerceSystem.dll
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\obj\Debug\net9.0\refint\EcommerceSystem.dll
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\obj\Debug\net9.0\EcommerceSystem.pdb
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\obj\Debug\net9.0\EcommerceSystem.genruntimeconfig.cache
+C:\D-drive\My files\Capgegemini_CU_Sec3_.NetWithAzure_Mahesh\Week10---9_Mar_26to14_Mar_26\13_Mar_26\EcommerceSystem(ManyToMany)\obj\Debug\net9.0\ref\EcommerceSystem.dll

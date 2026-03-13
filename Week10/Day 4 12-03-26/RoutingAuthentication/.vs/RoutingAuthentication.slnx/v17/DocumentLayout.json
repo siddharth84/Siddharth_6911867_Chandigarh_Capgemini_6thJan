@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Parth\\source\\repos\\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\\Week10_9-15thMar_2026\\Day 55_12th-Mar_2026\\RoutingAuthentication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E86B2090-459E-23DA-658B-B7BF71B194AC}|RoutingAuthentication.csproj|c:\\users\\parth\\source\\repos\\capgemini_cu_sec3_.netwithazure_parthatal\\week10_9-15thmar_2026\\day 55_12th-mar_2026\\routingauthentication\\middleware\\adminauthmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E86B2090-459E-23DA-658B-B7BF71B194AC}|RoutingAuthentication.csproj|solutionrelative:middleware\\adminauthmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AdminAuthMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\Parth\\source\\repos\\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\\Week10_9-15thMar_2026\\Day 55_12th-Mar_2026\\RoutingAuthentication\\Middleware\\AdminAuthMiddleware.cs",
+              "RelativeDocumentMoniker": "Middleware\\AdminAuthMiddleware.cs",
+              "ToolTip": "C:\\Users\\Parth\\source\\repos\\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\\Week10_9-15thMar_2026\\Day 55_12th-Mar_2026\\RoutingAuthentication\\Middleware\\AdminAuthMiddleware.cs",
+              "RelativeToolTip": "Middleware\\AdminAuthMiddleware.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T09:18:40.878Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

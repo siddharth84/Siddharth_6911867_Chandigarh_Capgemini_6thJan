@@ -1,0 +1,26 @@
+﻿@model LibraryMVC.Models.Book
+
+<h2>Create Book</h2>
+
+<form asp-action="Create">
+
+    <div class="form-group">
+        <label asp-for="Title"></label>
+        <input asp-for="Title" class="form-control" />
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Isbn"></label>
+        <input asp-for="Isbn" class="form-control" />
+    </div>
+
+    <div class="form-group">
+        <label asp-for="AuthorId">Author</label>
+        <select asp-for="AuthorId" class="form-control" asp-items="ViewBag.AuthorId"></select>
+    </div>
+
+    <br />
+
+    <button type="submit" class="btn btn-success">Create</button>
+
+</form>

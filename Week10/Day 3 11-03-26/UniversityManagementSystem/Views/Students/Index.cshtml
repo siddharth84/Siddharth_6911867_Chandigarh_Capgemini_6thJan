@@ -1,0 +1,27 @@
+﻿@model IEnumerable<UniversityManagementSystem.Models.Student>
+
+<h2>Students</h2>
+
+<a href="/Students/Create">Add Student</a>
+
+<table border="1">
+    <tr>
+        <th>Name</th>
+        <th>Email</th>
+        <th>Courses</th>
+    </tr>
+
+    @foreach (var student in Model)
+    {
+        <tr>
+            <td>@student.FullName</td>
+            <td>@student.Email</td>
+            <td>
+                @foreach (var e in student.Enrollments)
+                {
+                    <div>@e.Course.Title - Grade: @e.Grade</div>
+                }
+            </td>
+        </tr>
+    }
+</table>

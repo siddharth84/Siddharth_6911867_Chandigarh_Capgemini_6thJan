@@ -1,0 +1,36 @@
+﻿@model IEnumerable<HospitalMVC.Models.Appointment>
+
+<h2>Appointments</h2>
+
+<p>
+    <a asp-action="Create" class="btn btn-primary">New Appointment</a>
+</p>
+
+<table class="table">
+
+    <thead>
+        <tr>
+            <th>Patient</th>
+            <th>Doctor</th>
+            <th>Date</th>
+            <th>Remarks</th>
+        </tr>
+    </thead>
+
+    <tbody>
+
+        @foreach (var item in Model)
+        {
+            <tr>
+
+                <td>@item.Patient?.FullName</td>
+                <td>@item.Doctor?.Name</td>
+                <td>@item.AppointmentDate</td>
+                <td>@item.Remarks</td>
+
+            </tr>
+        }
+
+    </tbody>
+
+</table>

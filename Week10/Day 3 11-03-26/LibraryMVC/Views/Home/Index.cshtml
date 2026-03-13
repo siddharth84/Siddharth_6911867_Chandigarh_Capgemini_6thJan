@@ -1,0 +1,37 @@
+﻿<h1>Library Management System</h1>
+
+<div class="row">
+
+    <div class="col-md-3">
+        <div class="card p-3">
+            <h3>Authors</h3>
+            <p>Manage book authors</p>
+            <a asp-controller="Authors" asp-action="Index" class="btn btn-primary">View Authors</a>
+        </div>
+    </div>
+
+    <div class="col-md-3">
+        <div class="card p-3">
+            <h3>Books</h3>
+            <p>Manage books in library</p>
+            <a asp-controller="Books" asp-action="Index" class="btn btn-success">View Books</a>
+        </div>
+    </div>
+
+    <div class="col-md-3">
+        <div class="card p-3">
+            <h3>Borrowers</h3>
+            <p>Manage borrowers</p>
+            <a asp-controller="Borrowers" asp-action="Index" class="btn btn-warning">View Borrowers</a>
+        </div>
+    </div>
+
+    <div class="col-md-3">
+        <div class="card p-3">
+            <h3>Borrowed Books</h3>
+            <p>Track borrowed books</p>
+            <a asp-controller="BookBorrowers" asp-action="Index" class="btn btn-danger">View Records</a>
+        </div>
+    </div>
+
+</div>
